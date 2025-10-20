@@ -1,0 +1,15 @@
+# Ignore the MovieLens dataset
+ml-100k/
+# Ignore virtual environments
+env/
+# Ignore compiled files and caches
+__pycache__/
+*.pyc
+ml-100k/
+env/
+__pycache__/
+*.pyc
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
